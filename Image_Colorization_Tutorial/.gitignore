@@ -1,0 +1,7 @@
+*.py
+deeplearning-venv/
+output/
+Training Data/
+anime-and-cartoon-image-classification.zip
+*.err
+*.out

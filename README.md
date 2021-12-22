@@ -1,1 +1,1 @@
-# 02456_DeepLearningProject
+# DeepLearningProject

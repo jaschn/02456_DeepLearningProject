@@ -1,0 +1,1 @@
+bsub < submit_config.sh
